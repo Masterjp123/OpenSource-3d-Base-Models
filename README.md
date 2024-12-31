@@ -6,3 +6,9 @@ All Models that will or are in this Repo are required to have Decent Quad or Tri
 
 If your model is being used in this repository without your permission or against your wishes, Please Open up an Issue and hopefully I'll be able to help you.
 
+### Licenses That are supposed to be used
+Note: Exotic Licenses are allowed but these licenses are prefered.
+1. The Unlicense (Learn about it before using it!)
+2. The MIT License (Pretty Safe)
+3. Apache 2.0, 1.1, 1.0 (Safe like MIT from what I've seen)
+4. BSD (IDK much about it seems like it is similar to MIT Ig)
