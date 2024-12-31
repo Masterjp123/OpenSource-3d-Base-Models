@@ -8,7 +8,4 @@ If your model is being used in this repository without your permission or agains
 
 ### Licenses That are supposed to be used
 Note: Exotic Licenses are allowed but these licenses are prefered.
-1. The Unlicense (Learn about it before using it!)
-2. The MIT License (Pretty Safe)
-3. Apache 2.0, 1.1, 1.0 (Safe like MIT from what I've seen)
-4. BSD (IDK much about it seems like it is similar to MIT Ig)
+Basically all Creative commons Licences for Exanpe CC0, or CC-BY But There will be NO -NC Licenses
